@@ -1,0 +1,16 @@
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\bin\Debug\Computer Graphics lab3.exe.config
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\bin\Debug\Computer Graphics lab3.exe
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\bin\Debug\Computer Graphics lab3.pdb
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\bin\Debug\OpenTK.dll
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\bin\Debug\OpenTK.GLControl.dll
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\bin\Debug\OpenTK.pdb
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\bin\Debug\OpenTK.xml
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\bin\Debug\OpenTK.dll.config
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\bin\Debug\OpenTK.GLControl.xml
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\obj\Debug\Computer Graphics lab3.csprojAssemblyReference.cache
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\obj\Debug\Computer_Graphics_lab3.Form1.resources
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\obj\Debug\Computer_Graphics_lab3.Properties.Resources.resources
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\obj\Debug\Computer Graphics lab3.csproj.GenerateResource.cache
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\obj\Debug\Computer Graphics lab3.csproj.CopyComplete
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\obj\Debug\Computer Graphics lab3.exe
+D:\Компьютерная графика\Computer Graphics lab3\Computer Graphics lab3\Computer Graphics lab3\obj\Debug\Computer Graphics lab3.pdb
